@@ -47,6 +47,7 @@ Use the results of the linear regression analysis and modeling to answer the fol
 2. Is the risk of the yen expected to increase or decrease?
 3. Based on the model evaluation, would you feel confident in using these models for trading?
 
+# Conclusions
 
 ## Conclusion -- Time Series Analysis
 
